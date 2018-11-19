@@ -4,10 +4,12 @@ A collection of awesome Ruby meetups, code learning and diversity organizations,
 from around the world
 
 
+---
+
 **Contributions welcome. Anything missing? Updates more than welcome. Send us a pull request. See [`planetruby/meetups`](https://github.com/planetruby/meetups). Thanks.**
 
+---
 
-## Meetups & Organizations
 
 
 
