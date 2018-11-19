@@ -1,5 +1,6 @@
 
-title: "Awesome Ruby Meetups & Organizations"
+## note: match title from readme (needed for default primer theme to avoid duplicate titles)
+title: "Awesome Ruby Meetups &amp; Organizations"
 
 
 exclude:
