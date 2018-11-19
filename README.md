@@ -6,7 +6,7 @@ from around the world
 
 ---
 
-**Contributions welcome. Anything missing? Updates more than welcome. Send us a pull request. See [`planetruby/meetups`](https://github.com/planetruby/meetups). Thanks.**
+_Contributions welcome. Anything missing? Updates more than welcome. Send us a pull request. See [`planetruby/meetups`](https://github.com/planetruby/meetups). Thanks._
 
 ---
 
