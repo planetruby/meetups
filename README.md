@@ -24,7 +24,7 @@ from around the world
 
 {% comment %}
 
-Note, this is the source code version, see the live web pages @ [`planetruby.github.io/meetups` »](https://planetruby.github.io/calendar).
+Note, this is the source code version, see the live web pages @ [`planetruby.github.io/meetups` »](https://planetruby.github.io/meetups).
 
 {% endcomment %}
 
