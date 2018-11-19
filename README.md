@@ -7,14 +7,6 @@ from around the world
 **Contributions welcome. Anything missing? Updates more than welcome. Send us a pull request. See [`planetruby/meetups`](https://github.com/planetruby/meetups). Thanks.**
 
 
-
-{% comment %}
-
-Note, this is the source code version, see the live web pages @ [`planetruby.github.io/meetups` »](https://planetruby.github.io/calendar).
-
-{% endcomment %}
-
-
 ## Meetups & Organizations
 
 
@@ -30,12 +22,23 @@ Note, this is the source code version, see the live web pages @ [`planetruby.git
 
 <!-- new list for not by non-profits -->
 
+{% comment %}
+
+Note, this is the source code version, see the live web pages @ [`planetruby.github.io/meetups` »](https://planetruby.github.io/calendar).
+
+{% endcomment %}
+
 
 {% include_relative EUROPE.md %}
+
 {% include_relative AMERICA.md %}
+
 {% include_relative ASIA.md %}
+
 {% include_relative AFRICA.md %}
+
 {% include_relative PACIFIC.md %}
+
 
 
 ## License
