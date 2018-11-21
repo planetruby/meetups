@@ -149,6 +149,8 @@
    - **Ruby Nord** (web: [ruby-nord.org](http://ruby-nord.org), github: [ruby-nord](https://github.com/ruby-nord))
 - @ Marseille
    - **Pastis.rb de Marseille** (web: [pastisrb.org](http://pastisrb.org))
+- @ Nantes
+   - **Nantes.rb** (web: [rubynantes.org](https://rubynantes.org), meetup: [Nantes-rb](https://www.meetup.com/fr-FR/Nantes-rb/), slack: [nantesrb](https://nantesrb.herokuapp.com/), github: [nantesrb](https://github.com/nantesrb))
 
 
 #### Belgium / België / Belgique (be)
