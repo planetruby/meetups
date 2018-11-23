@@ -256,8 +256,8 @@
 
 #### Russia / Россия (ru)
 
-- @ Saint-Petersburg
-  - **Saint-P Ruby User Group** (meetup: [saintprug](https://www.meetup.com/saintprug/)
+- @ Saint Petersburg
+  - **Saint P Ruby User Group** (meetup: [saintprug](https://www.meetup.com/saintprug/))
 - @ Moscow
   - **RailsClub Moscow** (meetup: [RailsClub-Moscow](https://www.meetup.com/RailsClub-Moscow/))
 
