@@ -243,6 +243,7 @@
 
 - @ Minsk
    - **Belarus Ruby User Group - BRUG** (web: [brug.by](http://brug.by))
+   - **Minsk.rb** – (f: [minskruby](https://www.facebook.com/minskruby/))
 
 
 #### Bulgaria (bg)
