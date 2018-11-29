@@ -121,6 +121,8 @@
    - **Bath Ruby User Group** (meetup: [bathruby](https://www.meetup.com/bathruby))
 - @ West Midlands
    - **West Midlands Ruby User User Group (WMRUG)** (meetup: [West-Midlands-Ruby-User-Group-WMRUG](https://www.meetup.com/West-Midlands-Ruby-User-Group-WMRUG/))
+- @ Bristol
+   - **South West Ruby** (meetup: [south-west-ruby](https://www.meetup.com/south-west-ruby/))
 
 
 #### Scotland
