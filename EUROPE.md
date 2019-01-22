@@ -250,6 +250,9 @@
 
 #### Bulgaria (bg)
 
+- @ Sofia
+  - **Ruby Banitsa** (web: [rubybanitsa.com](https://rubybanitsa.com), meetup: [Ruby-Banitsa](https://www.meetup.com/Ruby-Banitsa/), slack: [rubybanitsa](https://slack.rubybanitsa.com/), twitter: [@rubybanitsa](https://twitter.com/@rubybanitsa), facebook: [rubybanitsa](https://fb.me/rubybanitsa))
+
 
 #### Romania / România (ro)
 
