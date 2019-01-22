@@ -259,9 +259,11 @@
 #### Russia / Россия (ru)
 
 - @ Saint Petersburg
-  - **Saint P Ruby User Group** (meetup: [saintprug](https://www.meetup.com/saintprug/))
+  - **Saint P Ruby User Group** (meetup: [saintprug](https://www.meetup.com/saintprug/), telegram: [@saintprug](https://t.me/saintprug))
 - @ Moscow
   - **RailsClub Moscow** (meetup: [RailsClub-Moscow](https://www.meetup.com/RailsClub-Moscow/))
+- @ Orel
+  - **Orel-rb** (web: [orel.codes](https://orel.codes), telegram: [@orel_codes_chat](https://t.me/orel_codes_chat))
 - @ Krasnodar
   - **Ruby Krasnodar** (web: [rubykrd.ru](http://rubykrd.ru))
 - @ Vladivostok
