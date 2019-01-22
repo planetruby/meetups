@@ -262,8 +262,11 @@
   - **Saint P Ruby User Group** (meetup: [saintprug](https://www.meetup.com/saintprug/))
 - @ Moscow
   - **RailsClub Moscow** (meetup: [RailsClub-Moscow](https://www.meetup.com/RailsClub-Moscow/))
-
-
+- @ Krasnodar
+  - **Ruby Krasnodar** (web: [rubykrd.ru](http://rubykrd.ru))
+- @ Vladivostok
+  - **Ruby Vladivostok** (web: [ruby-vladivostok.github.io](https://ruby-vladivostok.github.io), github: [ruby-vladivostok](https://github.com/ruby-vladivostok))
+  
 #### Ukraine / Україна / Украина (ua)
 
 <!--
