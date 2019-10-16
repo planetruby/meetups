@@ -21,8 +21,7 @@
 #### Austria / Österreich (at)
 
 - @ Vienna / Wien
-    - **Vienna.rb** (web: [vienna-rb.at](http://vienna-rb.at), github: [vienna-rb](https://github.com/vienna-rb), t: [viennarb](https://twitter.com/viennarb))
-    - **Ruby Habits** (github: [RubyHabits](https://github.com/RubyHabits), t: [rubyhabits](https://twitter.com/rubyhabits)) - Ruby Study Group
+    - **Vienna.rb** (github: [viennarb](https://github.com/viennarb))
 - @ Linz, Oberösterreich
     - **Ruby User Group Linz - RUGL** (meetup: [Ruby-User-Group-Linz-RUGL](http://meetup.com/Ruby-User-Group-Linz-RUGL))
 
