@@ -47,7 +47,7 @@
     - **Dresden on Ruby** (web: [dresden.onruby.de](http://dresden.onruby.de))
 - @ Leipzig, Saxony / Sachsen
     - **Leipzig on Rails** (web: [leipzig.onruby.de](http://leipzig.onruby.de))
-- @ Nuremberg, Nürnberg, Bavaria / Bayern
+- @ Nuremberg / Nürnberg, Bavaria / Bayern
     - **Ruby User Group Nürnberg - RUG::N** (web: [rug-n.de](http://rug-n.de/), t: [rug_nbg](https://twitter.com/NbgRug))
 - @ Munich / München, Bavaria / Bayern
     - **Munich Rubyshift Ruby User Group** (meetup: [Munich-Rubyshift-Ruby-User-Group](http://meetup.com/Munich-Rubyshift-Ruby-User-Group))
