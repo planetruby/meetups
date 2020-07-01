@@ -9,7 +9,8 @@
 [Indonesia](#indonesia-id) •
 [Nepal](#nepal-np) •
 [India](#india-in) •
-[China](#china-zh)
+[China](#china-zh) •
+[Israel](#israel-il)
 
 
 ### Japan (jp)
@@ -68,3 +69,8 @@
 
 
 ### China (zh)
+
+### Israel (il)
+
+- @Tel Aviv
+   - **israel.rb** (facebook: [israel.rb](https://www.facebook.com/groups/272757750683415/))
