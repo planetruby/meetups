@@ -41,6 +41,7 @@
 [Capital Region](#capital-region) •
 [Florida](#florida) •
 [Great Lakes](#great-lakes) •
+[Midwest](#midwest) •
 [Great Plains](#great-plains) •
 [Rocky Mountains](#rocky-mountains) •
 [Southwest](#southwest) •
@@ -80,6 +81,11 @@
     - **Mad Railers Meetup** (meetup: [Mad-Railers](http://meetup.com/Mad-Railers))
 - @ Milwaukee, Wisconsin
     - **RubyMKE Meetup** (meetup: [RubyMKE](http://meetup.com/RubyMKE))
+
+##### Midwest
+
+- @ Indianapolis, Indiana
+   - **IndyRB** (web: [indyrb.org](http://www.indyrb.org/), twitter: [@https://twitter.com/indyrb])
 
 ##### Great Plains
 
