@@ -124,7 +124,8 @@
    - **West Midlands Ruby User User Group (WMRUG)** (meetup: [West-Midlands-Ruby-User-Group-WMRUG](https://www.meetup.com/West-Midlands-Ruby-User-Group-WMRUG/))
 - @ Bristol
    - **South West Ruby** (meetup: [south-west-ruby](https://www.meetup.com/south-west-ruby/))
-
+- @ Manchester
+   - **North West Ruby Group** (web: [nwrug.org](https://nwrug.org), github: [nwrug](https://github.com/nwrug))
 
 #### Scotland
 
