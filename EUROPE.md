@@ -86,6 +86,8 @@
    - **Kraków Ruby User Group - KRUG** (meetup: [Krakow-Ruby-Users-Group](http://meetup.com/Krakow-Ruby-Users-Group))
 - @ Szczecin
    - **Szczecin Ruby User Group - SzRUG** (f: [Szczecin.Ruby.User.Group](https://www.facebook.com/Szczecin.Ruby.User.Group))
+- @ Rzeszów
+   - **Rzeszów Ruby User Group - RRUG** (web: [rrug.pl](http://rrug.pl/), f: [RRUGpl](https://www.facebook.com/RRUGpl), t: [@RRUGpl](https://twitter.com/RRUGpl/))
 
 <!--
    note: sorry fb group is NOT public; requires login - please fix
