@@ -192,4 +192,4 @@
 - @ Buenos Aires
     - **Ruby Buenos Aires** (meetup: [rubyba](http://meetup.com/rubyba))
 - @ La Plata
-   - **la_plata.rb** (web: [laplatarb.com](http://laplatarb.com), github: [laplatarb](https://github.com/laplatarb))
+   - **la_plata.rb** (web: [laplatarb.com](https://laplatarb.github.io), github: [laplatarb](https://github.com/laplatarb))
