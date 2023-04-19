@@ -10,7 +10,8 @@
 [Nepal](#nepal-np) •
 [India](#india-in) •
 [China](#china-zh) •
-[Israel](#israel-il)
+[Israel](#israel-il) •
+[Thailand](#thailand-th)
 
 
 ### Japan (jp)
@@ -74,3 +75,10 @@
 
 - @Tel Aviv
    - **israel.rb** (facebook: [israel.rb](https://www.facebook.com/groups/272757750683415/))
+
+### Thailand (th)
+
+- @Bangkok
+   - **bangkok.rb** (web: [bangkokrb.org](https://bangkokrb.org), meetup: [bangkok-rb](https://www.meetup.com/bangkok-rb/))
+
+
