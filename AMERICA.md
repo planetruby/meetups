@@ -52,7 +52,7 @@
 ##### New England
 
 - @ Boston, Massachusetts
-    - **Boston.rb** (web: [bostonrb.org](http://bostonrb.org), github: [bostonrb](https://github.com/bostonrb))
+    - **Boston.rb** (web: [bostonrubygroup.com](http://bostonrubygroup.com), github: [bostonrb](https://github.com/bostonrb))
 
 ##### Mid Atlantic
 
