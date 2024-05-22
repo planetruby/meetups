@@ -19,6 +19,7 @@
 - @ Ottawa, Ontario
    - **Ottawa Ruby** (web: [ottawaruby.ca](http://ottawaruby.ca))
 - @ Toronto, Ontario
+   - **Toronto Ruby** (web: [toronto-ruby.com](https://toronto-ruby.com/)
    - **Toronto Ruby Brigade** (meetup: [torontoruby](http://www.meetup.com/torontoruby))
    - **Rails Girls TO** (meetup: [railsgirlsTO](http://www.meetup.com/railsgirlsTO))
 - @ Montreal, Quebec /  Montréal, Québec
