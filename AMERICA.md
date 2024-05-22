@@ -40,7 +40,7 @@
 [New England](#new-england) •
 [Mid Atlantic](#mid-atlantic) •
 [Capital Region](#capital-region) •
-[Florida](#florida) •
+[Southeast](#southeast) •
 [Great Lakes](#great-lakes) •
 [Midwest](#midwest) •
 [Great Plains](#great-plains) •
@@ -69,7 +69,10 @@
 - @ Washington, D.C.
     - **DC Ruby Users Group - DCRUG** (meetup: [dcruby](http://meetup.com/dcruby))
 
-##### Florida
+##### Southeast
+
+- @ Lexington, Kentucky
+   - **Bluegrass Ruby Users Group** (web: [bluegrass ruby](http://bluegrassruby.club))
 
 - @ Orlando, Florida
    - **Orlando Ruby Users Group** (meetup: [Orlando-Ruby](http://meetup.com/Orlando-Ruby))
