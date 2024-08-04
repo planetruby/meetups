@@ -260,6 +260,9 @@
 
 #### Romania / România (ro)
 
+- @ Romania
+  - **RubyRomania** (meetup: [ruby-romania](https://rubyromania.ro))
+
 - @ Cluj-Napoca
   - **Cluj.rb** (meetup: [cluj-rb](http://meetup.com/cluj-rb))
 
